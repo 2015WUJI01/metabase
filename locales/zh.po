@@ -2334,11 +2334,11 @@ msgstr "问题是对你的数据的一个保存的观察。"
 
 #: frontend/src/metabase/components/CollectionLanding.jsx:286
 msgid "Pins"
-msgstr "钉住"
+msgstr "置顶"
 
 #: frontend/src/metabase/collections/components/PinnedItemsTable.jsx:25
 msgid "Drag something here to pin it to the top"
-msgstr "把东西拖到这里，把它钉在上面"
+msgstr "把东西拖到这里，将它置于顶部"
 
 #: frontend/src/metabase/admin/permissions/components/PermissionsPageLayout/PermissionsTabs.jsx:20
 #: frontend/src/metabase/admin/permissions/selectors/collection-permissions.js:78
@@ -2349,7 +2349,7 @@ msgstr "集合"
 
 #: frontend/src/metabase/collections/components/ItemsTable.jsx:25
 msgid "Drag here to un-pin"
-msgstr "拖动这里就可以取消钉住"
+msgstr "拖到这里可以取消置顶"
 
 #: frontend/src/metabase/collections/components/BulkActions.jsx:82
 msgid "{0} item selected"
@@ -2379,7 +2379,7 @@ msgstr "移动"
 
 #: frontend/src/metabase/collections/components/CollectionEditMenu.jsx:15
 msgid "Edit this collection"
-msgstr "编辑此文集"
+msgstr "编辑此集合"
 
 #: frontend/src/metabase/collections/components/CollectionEditMenu.jsx:21
 msgid "Archive this collection"
@@ -14289,16 +14289,16 @@ msgstr "这将被添加到value1的末尾。"
 #: frontend/src/metabase/lib/expressions/helper_text_strings.js:394
 #: frontend/src/metabase/lib/expressions/helper_text_strings.js:398
 msgid "string1"
-msgstr "绳子1"
+msgstr "字符串1"
 
 #: frontend/src/metabase/lib/expressions/helper_text_strings.js:394
 #: frontend/src/metabase/lib/expressions/helper_text_strings.js:399
 msgid "string2"
-msgstr "绳子2"
+msgstr "字符串2"
 
 #: frontend/src/metabase/lib/expressions/helper_text_strings.js:395
 msgid "Checks to see if string1 contains string2 within it."
-msgstr "检查string1中是否包含string2。"
+msgstr "检查字符串1中是否包含字符串2。"
 
 #: frontend/src/metabase/admin/tasks/containers/ModelCacheRefreshJobs/ModelCacheRefreshJobs.tsx:161
 #: frontend/src/metabase/lib/expressions/helper_text_strings.js:180
@@ -14687,7 +14687,7 @@ msgstr "载入中..."
 
 #: frontend/src/metabase/query_builder/components/template_tags/CardTagEditor.jsx:81
 msgid "Question #…"
-msgstr "题 ＃…"
+msgstr "问题 ＃…"
 
 #: frontend/src/metabase/query_builder/components/template_tags/CardTagEditor.jsx:84
 msgid "Question #{0}"
@@ -17133,7 +17133,7 @@ msgstr "使用集合为你的团队或你自己组织和分组仪表板和问题
 
 #: frontend/src/metabase/components/EntityItem.jsx:83
 msgid "Unpin this item"
-msgstr "取消粘贴此项目"
+msgstr "取消置顶此项目"
 
 #: frontend/src/metabase/dashboard/components/ClickMappings.jsx:100
 msgid "Available filters"
@@ -21778,7 +21778,7 @@ msgstr "显示更少的选项"
 
 #: frontend/src/metabase/components/EntityItem.jsx:103
 msgid "Unpin"
-msgstr "拔掉插头"
+msgstr "取消置顶"
 
 #: frontend/src/metabase/components/EntityItem.jsx:103
 msgid "Pin this"
